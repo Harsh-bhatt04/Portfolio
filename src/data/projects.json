@@ -1,0 +1,12 @@
+[
+    {
+      "title": "FREE-HAI",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Appwrite", "Router-dom"],
+      "demo": "https://www.free-hai.vercel.app",
+      "source": "https://www.github.com/Harsh-bhatt04/free-hai"
+    }
+  
+  ]
+  
