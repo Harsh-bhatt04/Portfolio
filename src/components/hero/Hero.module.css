@@ -102,4 +102,10 @@
     .content{
         align-items: center;
     }
+    .desc{
+        text-align: justify;
+    }
+    .title{
+        padding-top: 8px;    
+    }
 }

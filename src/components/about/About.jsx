@@ -19,7 +19,7 @@ export const About = () => {
                 alt="cursor" />
                 <div className={styles.aboutItemText}>
                     <h3>Frontend Developer</h3>
-                    <p>Frontend Developer with experience in creating responsive and user-friendly websites.</p>
+                    <p className={styles.desc_skills}>Frontend Developer with experience in creating responsive and user-friendly websites.</p>
                 </div>
             </li>
             <li className={styles.aboutItem}>
@@ -28,7 +28,7 @@ export const About = () => {
                 alt="backend" />
                 <div className={styles.aboutItemText}>
                     <h3>Backend Developer</h3>
-                    <p>Backend Developer with experience in creating responsive and user-friendly websites.</p>
+                    <p className={styles.desc_skills}> Backend Developer with experience in creating responsive and user-friendly websites.</p>
                 </div>
             </li>
             <li className={styles.aboutItem}>
@@ -37,7 +37,7 @@ export const About = () => {
                 alt="cursor" />
                 <div className={styles.aboutItemText}>
                     <h3>Full-stack Developer</h3>
-                    <p>Frontend Developer with experience in creating responsive and user-friendly websites.</p>
+                    <p className={styles.desc_skills}>Frontend Developer with experience in creating responsive and user-friendly websites.</p>
                 </div>
             </li>
         </ul>

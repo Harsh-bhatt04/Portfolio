@@ -61,6 +61,8 @@
     }
     .links{
         align-self: center;
-        gap: 21px;
+        gap: 15px;
+        font-size: 15px;
+        letter-spacing: 1;
     }
 }

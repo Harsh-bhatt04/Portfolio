@@ -6,6 +6,14 @@
       "skills": ["React", "Appwrite", "Router-dom"],
       "demo": "https://www.free-hai.vercel.app",
       "source": "https://www.github.com/Harsh-bhatt04/free-hai"
+    },
+    {
+      "title": "What-todo",
+      "imageSrc": "projects/project.png",
+      "description": "Track your day to day task with What-todo.",
+      "skills": ["React", "Router-dom","LocalStorage"],
+      "demo": "https://what-todo-xi.vercel.app/",
+      "source": "https://www.github.com/Harsh-bhatt04/free-hai"
     }
   
   ]
